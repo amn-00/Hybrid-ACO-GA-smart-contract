@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
+*.egg-info/
+complexity_analysis.png
+comparison_line_graphs.png
+improvement_summary.png
+direct_comparison.png
