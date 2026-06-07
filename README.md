@@ -26,8 +26,6 @@ The key innovation is a **dynamic knowledge transfer mechanism** that compresses
 | Fitness Score | 0.287 | 0.259 | **+11.0%** |
 | Optimization Time | 1.529s | 2.389s | **36.0% faster** |
 | Security Score | 8.585/10 | 7.585/10 | **+13.2%** |
-| Vulnerability Risk | — | — | **41.0% reduction** |
-| Performance at High Complexity | — | — | **13.5% → 23.8% advantage** |
 
 ---
 
